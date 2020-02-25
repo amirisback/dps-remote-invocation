@@ -1,0 +1,13 @@
+Pada latihan ini, perkelompok membuat aplikasi yang mengimplementasikan:
+1. Dua aktor yaitu client dan server
+2. Server memiliki layanan kalkulasi dasar (tambah, kurang, kali, bagi, kurang, pangkat) dengan inputan 2 variabel
+3. Client melakukan invokasi layanan kalkulasi dasar yang dimiliki oleh server, dengan mengirimkan pesan ke server.
+4. Komunikasi menggunakan jaringan localhost
+5. Mahasiswa diperbolehkan menggunakan HTTP method, RPC, atau RMI dengan bahasa pemrograman sesuai kemampuan mahasiswa, jika menggunakan HTTP method atau RMI maka diberi bonus 20 poin untuk masing-masing anggota kelompok.
+
+Setelah itu buatlah laporan dengan isi:
+1. Cover
+2. Kode Program dalam bentuk tabel tanpa border line (kolom 1 berisi nomor baris, kolom 2 berisi kode)
+3. Screenshot hasil dan analisis (analisis program dan screenshot)
+
+Submit source code (file coding) dan 1 laporan dalam format doc (bukan pdf)
